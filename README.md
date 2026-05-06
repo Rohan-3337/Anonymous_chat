@@ -30,7 +30,7 @@ Two modes:
 
 | Layer | Technology |
 |---|---|
-| **Frontend** | Next.js 14 (App Router), React, TailwindCSS |
+| **Frontend** | Next.js 16 (App Router), React, TailwindCSS |
 | **Backend** | Elysia.js (Bun runtime) |
 | **Database** | Redis (Upstash) |
 | **Realtime** | Realtime channels (SSE/WebSocket) |
